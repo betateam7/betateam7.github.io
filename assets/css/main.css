@@ -3289,7 +3289,6 @@ input, select, textarea {
 					}
 
 		}
-
 /* Wrapper */
 
 	#wrapper > * > .inner {
@@ -3305,4 +3304,4 @@ input, select, textarea {
 				padding: 0 1.25em;
 			}
 
-		}
+}
